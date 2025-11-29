@@ -4,7 +4,7 @@ A simple, clean landing page built to practice HTML and CSS fundamentals.
 Live Demo: https://nano-tech-page.vercel.app/ 
 
 # About:
-This is Project 1 of 8 in my web development learning series. The goal was to focus purely on HTML structure, CSS layout, and basic UI styling, (no JavaScript.
+This is Project 1 of 8 in my web development learning series. The goal was to focus purely on HTML structure, CSS layout, and basic UI styling, (no JavaScript).
 
 
 # Features:
