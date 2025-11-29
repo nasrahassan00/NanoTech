@@ -1,4 +1,4 @@
-# Nanotech Research Page
+# NanoTech Research Page
 A simple, clean landing page built to practice HTML and CSS fundamentals.
 
 Live Demo: https://nano-tech-page.vercel.app/ 
