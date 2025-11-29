@@ -16,7 +16,7 @@ This is Project 1 of 8 in my web development learning series. The goal was to fo
 
 
 # What I Learned:
-1. Semantic HTML
+1. Semantic HTML 
 2. Flexbox & layout spacing
 3. Styling typography and containers
 4. Designing a simple landing page
